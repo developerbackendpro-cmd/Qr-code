@@ -3,7 +3,7 @@ import qrcode
 from aiogram import Bot, Dispatcher, types
 from aiogram.utils import executor
 
-API_TOKEN = '8023296312:AAFZvasvkaPKwvmfkPHXf5Q7AmoDaJLSvNg'
+API_TOKEN = ''
 logging.basicConfig(level=logging.INFO)
 
 bot = Bot(token=API_TOKEN)
